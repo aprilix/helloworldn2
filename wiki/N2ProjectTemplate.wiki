@@ -8,7 +8,7 @@ This is a guide on how to install the Neonode N2 project template on your comput
 
 = Details =
 
-The first thing you need to do, is to download the [http://helloworldn2.googlecode.com/files/Neonode%20N2%20Application.zip "Neonode_N2_Application.zip"] file.
+The first thing you need to do, is to download the [http://helloworldn2.googlecode.com/files/Neonode_N2_Application.zip "Neonode_N2_Application.zip"] file.
 Copy the file to "My Documents\Visual Studio 2008\Templates\ProjectTemplates\Visual C#\Neonode"
 
 Open Visual Studio, select File->New->Project... and you should see the following dialog:
